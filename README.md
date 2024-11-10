@@ -142,6 +142,6 @@ Compilation:
 
 # Contact
 
-#### Email: kanishk.chouhan@example.com
+### Email: itskanishk36@gmail.com
 
-#### LinkedIn: Kanishk Chouhan
+### LinkedIn: https://www.linkedin.com/in/kanishk-chouhan/
