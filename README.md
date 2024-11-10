@@ -84,7 +84,7 @@ To use the data structures, simply clone the repository and include the header f
 
 ```sh
 git clone https://github.com/kanishk-chouhan/Generic-Data-Structure-in-C.git
-
+```
 Add the .c and .h files to your project and compile them along with your application.
 
 ## Usage
