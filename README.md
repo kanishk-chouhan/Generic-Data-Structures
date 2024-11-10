@@ -141,7 +141,5 @@ Compilation:
 ```
 
 # Contact
-
-### Email: itskanishk36@gmail.com
-
-### LinkedIn: https://www.linkedin.com/in/kanishk-chouhan/
+##### Email: itskanishk36@gmail.com
+##### LinkedIn: https://www.linkedin.com/in/kanishk-chouhan/
